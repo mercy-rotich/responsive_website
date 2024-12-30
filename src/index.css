@@ -20,3 +20,16 @@ a{
   padding-left: 10%;
   padding-right: 10%;
 }
+.btn{
+  background: #fff;
+  color: #212121;
+  padding: 8px 18px;
+  border-radius: 30px;
+  cursor: pointer;
+  border: 0;
+  outline: 0;
+  font-size: 16px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
