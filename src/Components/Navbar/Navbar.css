@@ -20,3 +20,7 @@ nav ul li{
     margin: 5px 20px;
     font-size: 25px;
 }
+.dark-nav{
+   background: #212ea0;
+   transition: 0.5s;
+}
