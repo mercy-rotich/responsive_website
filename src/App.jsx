@@ -6,6 +6,7 @@ import Title from './Components/Title/Title'
 import About from './Components/About/About'
 import { BrowserRouter } from 'react-router-dom'
 import Campus from './Components/Campus/Campus'
+import Testimonials from './Components/Testimonials/Testimonials'
 
 const App = () => {
   return (
@@ -20,6 +21,8 @@ const App = () => {
 <About/>
 <Title subTitle='Gallery' title='Campus Photos'/>
 <Campus/>
+<Title subTitle='Testimonials' title='What Students Says'/>
+<Testimonials/>
 
 </div>
 
