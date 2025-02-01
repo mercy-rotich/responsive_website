@@ -7,6 +7,7 @@ import About from './Components/About/About'
 import { BrowserRouter } from 'react-router-dom'
 import Campus from './Components/Campus/Campus'
 import Testimonials from './Components/Testimonials/Testimonials'
+import Contact from './Components/Contact/Contact'
 
 const App = () => {
   return (
@@ -23,6 +24,8 @@ const App = () => {
 <Campus/>
 <Title subTitle='Testimonials' title='What Students Says'/>
 <Testimonials/>
+<Title subTitle='contact us' title='Get In Touch'/>
+<Contact/>
 
 </div>
 
