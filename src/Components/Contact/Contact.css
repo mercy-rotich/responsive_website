@@ -45,3 +45,8 @@
     resize: none;
     background: #ebecff;
 }
+.contact-col span{
+    display: block;
+    margin: 20px 0;
+
+}
