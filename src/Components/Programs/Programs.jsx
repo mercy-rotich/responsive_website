@@ -9,7 +9,7 @@ import program_icon_3 from '../../assets/program-icon-2.png'
 
 const Programs = () => {
   return (
-    <div className='programs'>
+    <div className='programs' id='programs'>
         <div className="program">
             <img src={program_1} alt="" />
             <div className="caption">

@@ -22,3 +22,9 @@
     margin: 10px auto 20px;
     line-height: 1.4;
 }
+/* --media query-- */
+@media(max-width:1032px){
+    .hero-text h1{
+        font-size: 37px;
+    }
+}

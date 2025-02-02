@@ -10,3 +10,14 @@
 .footer ul li{
     list-style-type: none;
 }
+/* --media query--- */
+@media (max-width:470px){
+    .footer{
+        display: block;
+        text-align: center;
+        
+    }
+    .footer ul li{
+        padding: 20px;
+    }
+}

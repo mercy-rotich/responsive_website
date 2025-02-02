@@ -41,3 +41,14 @@ a{
   background: #212ea0;
   color: #fff;
 }
+
+/* ---media query--- */
+@media (max-width:1300px){
+  .container{
+    padding-left: 5%;
+    padding-right: 5%;
+  }
+  .btn{
+    padding:14px 22px ;
+  }
+}
